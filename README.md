@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaofilipe014
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new and interesting content, and I also value learning the foundational knowledge for my education—having a strong base is important to me. Most of all, I like having fun with what I do.
 - 🌱 I’m currently learning Java and deepening my understanding of programming logic.
 - 💞️ I’m looking to collaborate on my development as a professional, learning how to deal with challenges and situations that are outside of the everyday routine.
 - 📫 How to reach me joaofilipeperalta@gmail.com
